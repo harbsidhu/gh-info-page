@@ -15,7 +15,8 @@ This is my portfolio - a collection of selected projects.
 | Project Name  | WebPage   | GitHub Repository   |
 |:--------------|:---------:|:-------------------:|
 | gh-infopage-backend-prod | No Page | [GitHub](https://github.com/harbsidhu/gh-infopage-backend-prod.git) |
-| gh-infopage-infra-prod | [WebPage](https://harbsidhu.github.io/gh-infopage-infra-prod/) | [GitHub](https://github.com/harbsidhu/gh-infopage-infra-prod.git) |
+| gh-infopage-frontend-prod | No Page | [GitHub](https://github.com/harbsidhu/gh-infopage-frontend-prod.git) |
+| gh-infopage-infra-prod | No Page | [GitHub](https://github.com/harbsidhu/gh-infopage-infra-prod.git) |
 
 ---
 
